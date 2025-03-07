@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "middle_homework_5"
 include(":app")
 include(":settings")
+include(":gradle_plugins")

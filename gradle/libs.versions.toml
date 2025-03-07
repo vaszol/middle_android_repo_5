@@ -60,4 +60,4 @@ kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 kotlin-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
 kotlin-kapt = { id = "kotlin-kapt" }
 android-library = { id = "com.android.library", version.ref = "agp" }
-
+untranslated = { id = "find-untranslated-plugin" }
