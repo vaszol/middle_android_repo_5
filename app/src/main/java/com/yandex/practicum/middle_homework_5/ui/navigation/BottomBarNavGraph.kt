@@ -16,7 +16,7 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
 import com.yandex.practicum.middle_homework_5.R
 import com.yandex.practicum.middle_homework_5.ui.screen.NewsScreen
-import com.yandex.practicum.middle_homework_5.ui.screen.SettingScreen
+import com.yandex.practicum.middle_homework_5.settings.ui.screen.SettingScreen
 
 @Composable
 fun BottomBarNavGraph(navController: NavHostController) {
